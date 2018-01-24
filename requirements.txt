@@ -1,0 +1,2 @@
+htrc-feature-reader==1.94
+scikit-learn==0.19.0
