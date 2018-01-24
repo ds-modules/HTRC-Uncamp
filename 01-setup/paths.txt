@@ -1,0 +1,52 @@
+[sandbox] Welcome to the HathiTrust Research Center rsync server.
+
+receiving file list ... done
+created directory local-folder
+coo/
+coo/pairtree_root/
+coo/pairtree_root/31/
+coo/pairtree_root/31/92/
+coo/pairtree_root/31/92/40/
+coo/pairtree_root/31/92/40/05/
+coo/pairtree_root/31/92/40/05/84/
+coo/pairtree_root/31/92/40/05/84/43/
+coo/pairtree_root/31/92/40/05/84/43/23/
+coo/pairtree_root/31/92/40/05/84/43/23/31924005844323/
+coo/pairtree_root/31/92/40/05/84/43/23/31924005844323/coo.31924005844323.json.bz2
+mdp/
+mdp/pairtree_root/
+mdp/pairtree_root/39/
+mdp/pairtree_root/39/01/
+mdp/pairtree_root/39/01/50/
+mdp/pairtree_root/39/01/50/18/
+mdp/pairtree_root/39/01/50/18/64/
+mdp/pairtree_root/39/01/50/18/64/26/
+mdp/pairtree_root/39/01/50/18/64/26/71/
+mdp/pairtree_root/39/01/50/18/64/26/71/39015018642671/
+mdp/pairtree_root/39/01/50/18/64/26/71/39015018642671/mdp.39015018642671.json.bz2
+uc1/
+uc1/pairtree_root/
+uc1/pairtree_root/32/
+uc1/pairtree_root/32/10/
+uc1/pairtree_root/32/10/60/
+uc1/pairtree_root/32/10/60/00/
+uc1/pairtree_root/32/10/60/00/66/
+uc1/pairtree_root/32/10/60/00/66/61/
+uc1/pairtree_root/32/10/60/00/66/61/20/
+uc1/pairtree_root/32/10/60/00/66/61/20/32106000666120/
+uc1/pairtree_root/32/10/60/00/66/61/20/32106000666120/uc1.32106000666120.json.bz2
+uc1/pairtree_root/32/10/60/14/
+uc1/pairtree_root/32/10/60/14/02/
+uc1/pairtree_root/32/10/60/14/02/99/
+uc1/pairtree_root/32/10/60/14/02/99/27/
+uc1/pairtree_root/32/10/60/14/02/99/27/32106014029927/
+uc1/pairtree_root/32/10/60/14/02/99/27/32106014029927/uc1.32106014029927.json.bz2
+uc1/pairtree_root/b3/
+uc1/pairtree_root/b3/62/
+uc1/pairtree_root/b3/62/49/
+uc1/pairtree_root/b3/62/49/67/
+uc1/pairtree_root/b3/62/49/67/b3624967/
+uc1/pairtree_root/b3/62/49/67/b3624967/uc1.b3624967.json.bz2
+
+sent 637 bytes  received 984,387 bytes  179,095.27 bytes/sec
+total size is 982,772  speedup is 1.00
